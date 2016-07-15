@@ -1,0 +1,45 @@
+/* The body has the same font size as the standard font size*/
+body{
+    font-size: 100.0%;
+}
+
+/* This is the text used in a list */
+li {
+font-family: Georgia, "Times New Roman", serif;
+color: black; 
+font-size: medium; 
+font-weight: normal;
+font-style: normal;
+}
+
+/* This is the text used for the biggest headings*/
+h1 {
+font-family: Georgia, "Times New Roman", serif;
+color: black;
+font-size: xx-large;
+text-align: center;
+font-style: oblique;
+}
+/* This is the text used in paragraphs*/
+p {
+font-family: Georgia, "Times New Roman", serif;
+color: black;
+font-size: large;
+}
+
+/* This is the one of the smaller headings*/
+h2 { 
+font-family: Georgia, "Times New Roman", serif;
+font-size: medium;
+}
+
+/* This is the one of the smaller headings */
+h3 {
+font-family: Georgia, "Times New Roman", serif;
+font-size: large;
+font-weight: normal;
+font-style: italic;
+}
+
+
+# vivekramchandran.github.io
